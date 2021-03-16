@@ -1,8 +1,8 @@
 import React from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css'
-import * as Rb from 'react-bootstrap'
-import styles from '../styles/Navbar.module.css'
-import Link from 'next/link'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import * as Rb from 'react-bootstrap';
+import styles from '../styles/Navbar.module.css';
+import Link from 'next/link';
 
 export default function Navbar_com() {
 
