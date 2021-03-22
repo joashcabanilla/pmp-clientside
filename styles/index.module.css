@@ -1,4 +1,21 @@
-.homepage{
-    width: 100%;
-    height: 100vh;
-  }
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+.homepage {
+  width: 100%;
+  height: 100%;
+  background-color: #accddd;
+}
+/* .productdiv {
+  background-color: #9dc6db;
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+.products {
+  background-color: #f8fbfc;
+  width: 98%;
+  height: auto;
+  border-radius: 2rem 2rem 2rem 2rem;
+} */
